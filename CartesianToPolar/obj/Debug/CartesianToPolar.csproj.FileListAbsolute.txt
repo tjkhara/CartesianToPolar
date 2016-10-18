@@ -1,0 +1,6 @@
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\CartesianToPolar\CartesianToPolar\bin\Debug\CartesianToPolar.exe.config
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\CartesianToPolar\CartesianToPolar\bin\Debug\CartesianToPolar.exe
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\CartesianToPolar\CartesianToPolar\bin\Debug\CartesianToPolar.pdb
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\CartesianToPolar\CartesianToPolar\obj\Debug\CartesianToPolar.csprojResolveAssemblyReference.cache
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\CartesianToPolar\CartesianToPolar\obj\Debug\CartesianToPolar.exe
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\CartesianToPolar\CartesianToPolar\obj\Debug\CartesianToPolar.pdb
